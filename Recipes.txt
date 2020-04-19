@@ -4,4 +4,7 @@ kheer
 pasta
 samose
 
+Beans
+Pizza
+
 Thank you :)
